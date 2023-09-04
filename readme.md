@@ -2,6 +2,6 @@
 
 This is a testing project for learning Git
 
-And now we're active on Github
+Now we're active on Github.com. Please like and subscribe.
 
 This is for testing purposes, only!
